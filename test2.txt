@@ -3,3 +3,7 @@ private function test2():String
 {
 	return "feature";
 }
+private function test4():String
+{
+	return "feature2";
+}
